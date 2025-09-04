@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-- 🔭 I’m studies **Computer Science and Engineering (CSE) from Kalinga Institution of Industrial Technology (KIIT), Bhubaneswar.**
+- 🔭 I’m studies **Computer Science and Engineering (CSE) from Kalinga Institution of Industrial Technology (KIIT), Bhubaneswar, Orissa, India.**
 
 - 👨‍💻 Currently I am an Programmer Analyst Trainee in **Cognizant.**
 
