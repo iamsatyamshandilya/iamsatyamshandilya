@@ -7,7 +7,7 @@
 
 - 👨‍💻 Currently I am an Programmer Analyst Trainee in **Cognizant.**
 
-- 🌱 I'm working in the tools like **IICS, Snowflake, AWS, MySQL, Data Warehousing.**
+- 🌱 I'm working in the tools like **IICS, Snowflake, AWS, MySQL, Power BI, Data Warehousing.**
 
 - 🤝Employee ID : **2387817**
 
